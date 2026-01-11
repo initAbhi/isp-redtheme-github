@@ -63,9 +63,8 @@ const Header = () => {
                     </svg>
                 </button>
                 <div
-                    className={`${
-                        open === true ? 'block' : 'hidden'
-                    } w-full lg:block lg:w-auto`}
+                    className={`${open === true ? 'block' : 'hidden'
+                        } w-full lg:block lg:w-auto`}
                     id="navbar-default"
                 >
                     <ul className="flex flex-col p-4 mt-4 bg-gray-50 rounded-lg border border-gray-100 lg:flex-row lg:space-x-4 lg:mt-0 lg:text-sm lg:font-medium lg:border-0 lg:bg-white dark:bg-gray-800 lg:dark:bg-gray-900 dark:border-gray-700">
@@ -93,14 +92,15 @@ const Header = () => {
                                 </li>
                             )
                         ) : (
-                            <li className="mt-2 md:mt-0">
-                                <Link
-                                    to="/login"
-                                    className="block px-2 py-2 text-gray-700 rounded-lg hover:bg-gray-100 dark:text-gray-300 dark:hover:bg-gray-700 hover:text-red-600"
-                                >
-                                    Login
-                                </Link>
-                            </li>
+                            // <li className="mt-2 md:mt-0">
+                            //     <Link
+                            //         to="/login"
+                            //         className="block px-2 py-2 text-gray-700 rounded-lg hover:bg-gray-100 dark:text-gray-300 dark:hover:bg-gray-700 hover:text-red-600"
+                            //     >
+                            //         Login
+                            //     </Link>
+                            // </li>
+                            null
                         )}
                     </ul>
                 </div>

@@ -80,8 +80,8 @@ const Footer = () => {
                         <Box sx={{ textAlign: 'center' }}>
                             <p sx={{ fontWeight: 600 }}>Office</p>
                             <Box sx={{ mt: 2 }}>
-                                <p sx={{ mt: 1 }}>Dhaladia, Rajabari</p>
-                                <p sx={{ mt: 1 }}>Sreepur, Gazipur</p>
+                                <p sx={{ mt: 1 }}>Rameshwadi</p>
+                                <p sx={{ mt: 1 }}>Badlapur west</p>
                             </Box>
                             <Box sx={{ mt: 3 }}>
                                 <p
@@ -92,7 +92,7 @@ const Footer = () => {
                                         mt: 1,
                                     }}
                                 >
-                                    <CallIcon /> +8801310913326
+                                    <CallIcon /> +91 6268644194
                                 </p>
                                 <p
                                     sx={{
@@ -101,7 +101,7 @@ const Footer = () => {
                                         mt: 1,
                                     }}
                                 >
-                                    <CallIcon /> +8801310913327
+                                    <CallIcon /> +91 6268644194
                                 </p>
                             </Box>
                         </Box>

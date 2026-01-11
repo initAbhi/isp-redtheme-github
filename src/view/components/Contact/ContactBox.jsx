@@ -25,7 +25,7 @@ const ContactBox = () => {
                         className="footer rounded-bottom"
                     >
                         <div className="p-3 text-white">
-                            <p className="m-0">+8801310913326</p>
+                            <p className="m-0">+91 6268644194</p>
                         </div>
                     </div>
                 </div>

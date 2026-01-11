@@ -28,7 +28,7 @@ const HomeContact = () => {
                                 variant="p"
                                 component="p"
                             >
-                                <CallIcon /> +8801841181011
+                                <CallIcon /> +91 6268644194
                             </Typography>
                             <p
                                 sx={{
@@ -39,7 +39,7 @@ const HomeContact = () => {
                                 variant="p"
                                 component="p"
                             >
-                                <CallIcon /> +8801841181011
+                                <CallIcon /> +91 6268644194 
                             </p>
                         </Box>
                     </Grid>
